@@ -6,3 +6,20 @@
     background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
     background-size: cover;
   }
+
+.mat-color-principal{
+    background-color:cadetblue; 
+    color: aliceblue;
+}
+
+.img-logo-banque{
+    height: 100%;
+    margin-right: 1em;
+}
+.nom{
+    font-size: 2em;
+    font-weight: bold;
+}
+.nom-si{
+    color: brown;
+}
